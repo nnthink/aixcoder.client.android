@@ -7,10 +7,13 @@
 
 通过【代码自动补全】和【相似代码智能推荐】两项功能提高开发者的编程效率，使开发者不再被机械的编程规则、惯用模式所拖累，可以将精力集中于具有创造性的编程活动。
 
-<center><img src='http://www.aixcoder.com/help/img/img2.gif' width='400' alt='代码自动补全' align="center"></center>
+<p align="center"><img src='http://www.aixcoder.com/help/img/img2.gif' width='400' alt='代码自动补全'></p>
 
+<p align="center">代码自动补全</p>
 
-<img src='http://www.nnthink.com/download/video/aixcoder_wx_demo_0814.gif' width='400' alt='代码自动补全' align="center">
+<p align="center"><img src='http://www.nnthink.com/download/video/aixcoder_wx_demo_0814.gif' width='500' alt='相似代码智能推荐'></p>
+
+<p align="center">相似代码智能推荐</p>
 
 在此【诚挚邀请】开发者们参加产品的内测。 
 
@@ -37,12 +40,12 @@
 
 1.开发者助手微信号：【aixcoder001】
 
-<center><img src='aixcoder助手.jpeg' width='250' alt='代码自动补全' align="center"></center>
+<p align="center"><img src='aixcoder助手.jpeg' width='200' alt='代码自动补全' align="center"></p>
 
 
 2.微信公众号：【aixcoder】 
 
-<center><img src='aixcoder.jpg' width='250' alt='代码自动补全' align="center"></center>
+<p align="center"><img src='aixcoder.jpg' width='200' alt='代码自动补全' align="center"></p>
 
 
 

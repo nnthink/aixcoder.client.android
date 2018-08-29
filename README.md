@@ -37,8 +37,12 @@
 
 1.开发者助手微信号：【aixcoder001】
 
+<center><img src='aixcoder助手.jpeg' width='250' alt='代码自动补全' align="center"></center>
+
+
 2.微信公众号：【aixcoder】 
 
+<center><img src='aixcoder.jpg' width='250' alt='代码自动补全' align="center"></center>
 
 
 

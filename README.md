@@ -45,7 +45,7 @@
 
 2.微信公众号：【aixcoder】 
 
-<p align="center"><img src='aixcoder.jpg' width='200' alt='代码自动补全' align="center"></p>
+<p align="center"><img src='aixcoder1.jpg' width='200' alt='代码自动补全' align="center"></p>
 
 
 
